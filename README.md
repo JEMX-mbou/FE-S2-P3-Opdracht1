@@ -1,5 +1,6 @@
 # FE-S2-P3-Opdracht2
 
+Onderwijs Online Link: https://mboutrecht.onderwijsonline.nl/elearning/lesson/XNY0OGqP
 In te leveren:
 - script.js
 - EXTRA: profile.scss en profile.css
@@ -10,13 +11,14 @@ Dus als je index.html in de browser bekijkt dan zul je al een pagina zien staan 
 
 Het is de bedoeling van deze opdracht om de pagina te vullen met inhoud zoals hieronder te zien is. 
 
-opdr2.png
+![opdr2](https://user-images.githubusercontent.com/51715045/153872832-beef36fa-29c3-4859-ac7a-5800daccca82.png)
 
 1. Het is nu de bedoeling om de pagina van inhoud te voorzien door middel van Javascript. 
 Open script.js. Op regel 3 wordt er een element geselecteerd. 
 En op regel 4 word er een afbeelding bij het src attribuut ingevuld. 
 Zorg dat er een foto naar keuze wordt ingeladen. 
-opdr2-1.png
+![opdr2-1](https://user-images.githubusercontent.com/51715045/153872854-80588970-a3d3-4db9-b0a6-f1af60dce900.png)
+
  
 2. Door de functie querySelector te gebruiken. Kan je elementen selecteren door CSS selectors te gebruiken. 
 Hierdoor kunnen we gebruik maken van meerdere functies en ook verschillende attributen veranderen zoals src. 
@@ -39,16 +41,14 @@ Per opleiding en baan is eigenlijk dezelfde informatie nodig en dus ook dezelfde
 Dus we gaan eerst een array maken van de opleidingen. 
 Neem de onderstaande variabelen en structuur over. De inhoud kan je aanpassen. 
 LET GOED OP ALLE TEKENS!!!
-
-opdr2-2.png
+![opdr2-2](https://user-images.githubusercontent.com/51715045/153872884-b0f114ff-fd60-49bd-a569-3e70d56058b0.png)
  
 5. Met de array die nu is gedefinieerd kunnen we de inhoud van het opleidings element gaan vullen. 
 In het onderstaande voorbeeld wordt het UL element geselecteerd in het div element met de klasse education. 
 Daarna wordt er door de array heen geloopt en wordt er een nieuw list-item element aangemaakt. 
 En wordt de innerlijke HTML van het element gevuld met de informatie over de opleiding. Als dat is gedefinieerd wordt het toegevoegd aan het UL element. 
 Neem het onderstaande voorbeeld over. 
-
-opdr2-3.png
+![opdr2-3](https://user-images.githubusercontent.com/51715045/153872908-e2f76ffb-7ee0-487d-a082-efcd26c3aa32.png)
  
 6. Alle opleidingen wordt nu toegevoegd. Nu is het de bedoeling om ook de banen aan te vullen. 
 Je kan hiervoor stap 4 gebruiken.

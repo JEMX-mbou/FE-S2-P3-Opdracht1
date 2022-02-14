@@ -59,3 +59,9 @@ En deze gaan vullen met de informatie over de banen.
 Je kan hiervoor stap 5 gebruiken. 
 Zorg dat de informatie van de banen met een foreach loop in het UL element wordt ingeladen. 
 De HTML structuur is hetzelfde als die van de opleidingen. 
+
+# EXTRA opdracht: Pas de styling verder aan.
+1. Het profiel heeft al een styling meegekregen, maar deze styling is nog vrij basis. 
+Maak een nieuw bestand aan in de map scss en noem deze profile.scss.
+
+2. Zet een nieuwe sass-compiler op. En voeg styling toe om de pagina er nog beter uit te laten zien. 

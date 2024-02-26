@@ -1,6 +1,5 @@
 # FE-S2-P3-Opdracht2
 
-Onderwijs Online Link: https://mboutrecht.onderwijsonline.nl/elearning/lesson/XNY0OGqP
 In te leveren:
 - script.js
 - EXTRA: profile.scss en profile.css

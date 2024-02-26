@@ -1,4 +1,4 @@
-# FE-S2-P3-Opdracht2
+# FE-S2-P3-Opdracht1
 
 In te leveren:
 - script.js
